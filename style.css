@@ -1,0 +1,14 @@
+.wall{
+box-shadow: rgba(128, 128, 128, 0.651) -82px 3px 30px 20px ;
+background-color: rgb(26, 87, 219);
+padding: 116px;
+margin: 100px;
+border-radius: 30px;
+float: left;
+transition: 0.4s;
+}
+
+.wall:hover{
+    margin-top: -10px;
+    transition: 0.4s;
+}
